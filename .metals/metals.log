@@ -4051,3 +4051,65 @@ org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Escape
 2023.04.17 22:28:49 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/SQLiteConnectionManager.java
 2023.04.17 22:29:01 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/SQLiteConnectionManager.java
 2023.04.17 22:29:05 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/SQLiteConnectionManager.java
+2023.04.17 22:39:01 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:40:26 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:40:38 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:40:49 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+Apr 17, 2023 10:41:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1829
+2023.04.17 22:42:31 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:42:33 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:45:49 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:47:19 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:47:49 INFO  Shutting down server
+2023.04.17 22:47:49 INFO  shutting down Metals
+2023.04.17 22:47:49 INFO  Exiting server
+2023.04.17 22:48:27 INFO  Started: Metals version 0.11.11 in workspace '/Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/fahrul/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.17 22:48:28 INFO  time: initialize in 1.26s
+2023.04.17 22:48:35 WARN  Build server is not auto-connectable.
+2023.04.17 22:48:35 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+Apr 17, 2023 10:48:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 17, 2023 10:48:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Apr 17, 2023 10:48:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2023.04.17 22:48:38 INFO  time: code lens generation in 3.11s
+2023.04.17 22:48:38 INFO  time: code lens generation in 1.91s
+2023.04.17 22:49:15 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+Apr 17, 2023 10:50:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 128
+2023.04.17 22:50:38 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:51:09 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:55:39 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+Apr 17, 2023 10:55:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 298
+Apr 17, 2023 10:55:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 299
+Apr 17, 2023 10:55:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 301
+2023.04.17 22:55:47 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:56:10 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:57:30 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 22:59:36 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:04:06 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:04:41 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:05:05 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:05:27 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:05:28 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:05:58 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:06:28 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:07:26 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:08:06 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:08:10 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:08:28 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:08:44 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:09:03 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/App.java
+2023.04.17 23:09:05 WARN  no build target for: /Users/fahrul/Documents/MacquarieDocs/COMP3310/Week5/workshop-5-sql-injections-and-logging-FastFahrul/app/src/main/java/workshop05code/SQLiteConnectionManager.java
+2023.04.17 23:09:07 INFO  time: code lens generation in 1.72s

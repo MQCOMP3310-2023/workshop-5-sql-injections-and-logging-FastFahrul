@@ -10,6 +10,7 @@ import java.io.FileInputStream;
 import java.util.logging.Level;
 import java.util.logging.LogManager;
 import java.util.logging.Logger;
+import java.util.regex.Pattern;
 
 /**
  *
@@ -75,10 +76,13 @@ public class App {
 
             while (!guess.equals("q")) {
                 System.out.println("You've guessed '" + guess+"'.");
-
-                if (wordleDatabaseConnection.isValidWord(guess)) { 
+                
+                if (!isValidInput(guess)) { 
+                    System.out.println("Sorry. This word is NOT 4 letters AND/OR it is NOT lowercase.\n");
+                }else if(wordleDatabaseConnection.isValidWord(guess)){
                     System.out.println("Success! It is in the the list.\n");
-                }else{
+                }
+                else{
                     System.out.println("Sorry. This word is NOT in the the list.\n");
                 }
 
@@ -88,6 +92,9 @@ public class App {
         } catch (NoSuchElementException | IllegalStateException e) {
             e.printStackTrace();
         }
+    }
 
+    private static boolean isValidInput(String input) {
+        return input.equals("q") || input.matches("^[a-z]{4}$");
     }
 }
