@@ -125,18 +125,35 @@ public class SQLiteConnectionManager {
      * @param id   the unique id for the word
      * @param word the word to store
      */
-    public void addValidWord(int id, String word) {
+    /*public void addValidWord(int id, String word) {
+        int idNum = id;
+        String wordStr = word;
 
-        String sql = "INSERT INTO validWords(id,word) VALUES('" + id + "','" + word + "')";
+        String sql = "INSERT INTO validWords(id,word) VALUES(\"?\",\"?\")";
 
         try (Connection conn = DriverManager.getConnection(databaseURL);
                 PreparedStatement pstmt = conn.prepareStatement(sql)) {
+            pstmt.setInt(1,idNum);
+            pstmt.setString(2, wordStr);
             pstmt.executeUpdate();
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
 
-    }
+    }*/
+
+    public void addValidWord(int id, String word) {
+        String sql = "INSERT INTO validWords(id,word) VALUES(?,?)";
+    
+        try (Connection conn = DriverManager.getConnection(databaseURL);
+                PreparedStatement pstmt = conn.prepareStatement(sql)) {
+            pstmt.setInt(1, id); // setInt() method is used to set int values, and parameter index starts from 1, not 0
+            pstmt.setString(2, word); // parameter index starts from 1, not 0
+            pstmt.executeUpdate();
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+    }    
 
     /**
      * Possible weakness here?
